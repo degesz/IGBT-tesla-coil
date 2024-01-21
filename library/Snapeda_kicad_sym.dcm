@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+# UCC27712D
+#
+$CMP UCC27712D
+D
+F
+$ENDCMP
+#
+# ZC323000
+#
+$CMP ZC323000
+D
+F
+$ENDCMP
+#End Doc Library
