@@ -13,4 +13,11 @@ $CMP ZC323000
 D
 F
 $ENDCMP
+#
+# GBJ1008-BP
+#
+$CMP GBJ1008-BP
+D
+F
+$ENDCMP
 #End Doc Library
