@@ -20,4 +20,11 @@ $CMP GBJ1008-BP
 D
 F
 $ENDCMP
+#
+# ASM-010
+#
+$CMP ASM-010
+D
+F
+$ENDCMP
 #End Doc Library
