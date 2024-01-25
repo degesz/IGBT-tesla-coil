@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCSP-Q-08-A-SG-T_R
+D Connector: for cards; SD Micro; push-push; SMT; gold flash
+K
+F https://www.tme.eu/Document/5f9a5d03c5c83aa9fa1dbd4994c7ccab/MCSP-Q-08-A-SG-DTE.pdf
+$ENDCMP
+#End Doc Library
